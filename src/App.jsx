@@ -1,4 +1,4 @@
-import ImageGen from "./components/imageGen";
+import ImageGen from "./components/ImageGen";
 import NavBar from "./components/NavBar";
 
 function App() {
